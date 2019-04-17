@@ -24,4 +24,12 @@
           -o-transform: rotate(90deg);
           transform: rotate(90deg);
         }
-      .carousel-control
+      .p2{font-color:green;}
+      .p3{font-color:blue;}
+      .p4{font-color:black;}
+      .h1{font-color:white;}
+      .h2{font-color:green;}
+      .h3{font-color:blue;}
+      .h4{font-color:black;}
+      p.dotted{border-style:none;}
+      p.outset{border-style:outset;}
