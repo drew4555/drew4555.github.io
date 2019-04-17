@@ -17,3 +17,11 @@
       .img-1 {transform: rotate(270deg);}
       .carousel-inner img{width:100%; height:100%;}
       .p1{font-color:white;}
+      .rotateimg90 {
+          -webkit-transform:rotate(90deg);
+          -moz-transform: rotate(90deg);
+          -ms-transform: rotate(90deg);
+          -o-transform: rotate(90deg);
+          transform: rotate(90deg);
+        }
+      .carousel-control
